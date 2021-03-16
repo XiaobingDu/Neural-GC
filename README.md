@@ -2,6 +2,8 @@
 
 The `Neural-GC` repository contains code for a deep learning-based approach to discovering Granger causality networks in multivariate time series. The methods implemented here are described in [this paper](https://arxiv.org/abs/1802.05842).
 
+- - refer to this code
+
 ## Installation
 
 To install the code, please clone the repository. All you need is `Python 3`, `PyTorch (>= 0.4.0)`, `numpy` and `scipy`.
